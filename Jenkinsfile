@@ -56,7 +56,7 @@ pipeline {
         stage('Deploy to Azure') {
             steps {
                 bat '''
-                powershell Compress-Archive -Path ProoductPrac\\publish\\* -DestinationPath publish.zip -Force
+                powershell Compress-Archive -Path ProductPrac\\publish\\* -DestinationPath publish.zip -Force
                 az webapp deployment source config-zip --resource-group jenkins-deepank-rg123 --name jenkins-deepank-app123456 --src publish.zip
                 '''
             }
