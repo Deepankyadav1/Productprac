@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\ProoductPrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|d:\\new folder\\prooductprac\\prooductprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|solutionrelative:prooductprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|d:\\new folder\\prooductprac\\prooductprac\\prooductprac.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|solutionrelative:prooductprac\\prooductprac.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|d:\\new folder\\prooductprac\\prooductprac\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|solutionrelative:prooductprac\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|d:\\new folder\\prooductprac\\prooductprac\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|solutionrelative:prooductprac\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|d:\\new folder\\prooductprac\\prooductprac\\prooductprac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|solutionrelative:prooductprac\\prooductprac.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|d:\\new folder\\prooductprac\\prooductprac\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D229D55C-9B66-4E96-97D8-F16EBC14AA9C}|ProoductPrac\\ProoductPrac.csproj|solutionrelative:prooductprac\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ProoductPrac\\Model\\Product.cs",
+              "ToolTip": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Model\\Product.cs",
+              "RelativeToolTip": "ProoductPrac\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:06:20.849Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "ProoductPrac\\Services\\ProductServices.cs",
+              "ToolTip": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Services\\ProductServices.cs",
+              "RelativeToolTip": "ProoductPrac\\Services\\ProductServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:06:50.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProoductPrac.csproj",
+              "DocumentMoniker": "D:\\New folder\\ProoductPrac\\ProoductPrac\\ProoductPrac.csproj",
+              "RelativeDocumentMoniker": "ProoductPrac\\ProoductPrac.csproj",
+              "ToolTip": "D:\\New folder\\ProoductPrac\\ProoductPrac\\ProoductPrac.csproj",
+              "RelativeToolTip": "ProoductPrac\\ProoductPrac.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T18:04:59.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProoductPrac\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProoductPrac\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:04:47.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProoductPrac.http",
+              "DocumentMoniker": "D:\\New folder\\ProoductPrac\\ProoductPrac\\ProoductPrac.http",
+              "RelativeDocumentMoniker": "ProoductPrac\\ProoductPrac.http",
+              "ToolTip": "D:\\New folder\\ProoductPrac\\ProoductPrac\\ProoductPrac.http*",
+              "RelativeToolTip": "ProoductPrac\\ProoductPrac.http*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-30T18:03:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Program.cs",
+              "RelativeDocumentMoniker": "ProoductPrac\\Program.cs",
+              "ToolTip": "D:\\New folder\\ProoductPrac\\ProoductPrac\\Program.cs",
+              "RelativeToolTip": "ProoductPrac\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:50:19.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
