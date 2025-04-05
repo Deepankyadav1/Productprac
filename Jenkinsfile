@@ -26,10 +26,10 @@ pipeline {
             steps {
                 bat '''
                     terraform plan ^
-                      -var client_id=%ARM_CLIENT_ID1% ^
-                      -var client_secret=%ARM_CLIENT_SECRET1% ^
-                      -var tenant_id=%ARM_TENANT_ID1% ^
-                      -var subscription_id=%ARM_SUBSCRIPTION_ID1%
+                      -var client_id=%ARM_CLIENT_ID% ^
+                      -var client_secret=%ARM_CLIENT_SECRET% ^
+                      -var tenant_id=%ARM_TENANT_ID% ^
+                      -var subscription_id=%ARM_SUBSCRIPTION_ID%
                     '''
             }
         }
@@ -38,10 +38,10 @@ pipeline {
             steps {
                 bat '''
                 terraform apply -auto-approve ^
-                  -var client_id=%ARM_CLIENT_ID1% ^
-                  -var client_secret=%ARM_CLIENT_SECRET1% ^
-                  -var tenant_id=%ARM_TENANT_ID1% ^
-                  -var subscription_id=%ARM_SUBSCRIPTION_ID1%
+                  -var client_id=%ARM_CLIENT_ID% ^
+                  -var client_secret=%ARM_CLIENT_SECRET% ^
+                  -var tenant_id=%ARM_TENANT_ID% ^
+                  -var subscription_id=%ARM_SUBSCRIPTION_ID%
                 '''
             }
         }
