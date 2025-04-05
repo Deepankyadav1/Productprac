@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git url: 'https://github.com/Deepankyadav1/pracproj.git', branch: 'master'
+                git url: 'https://github.com/Deepankyadav1/Productprac.git', branch: 'main'
             }
         }
 
@@ -47,7 +47,7 @@ pipeline {
         }
          stage('Build .NET App') {
             steps {
-                dir('MyApiProject') { // Adjust to your .NET project folder
+                dir('ProoductPrac') { // Adjust to your .NET project folder
                     bat 'dotnet publish -c Release -o publish'
                 }
             }
@@ -56,7 +56,7 @@ pipeline {
         stage('Deploy to Azure') {
             steps {
                 bat '''
-                powershell Compress-Archive -Path pracproj\\publish\\* -DestinationPath publish.zip -Force
+                powershell Compress-Archive -Path ProductPrac\\publish\\* -DestinationPath publish.zip -Force
                 az webapp deployment source config-zip --resource-group jenkins-deepank-rg123 --name jenkins-deepank-app123456 --src publish.zip
                 '''
             }
